@@ -1,2 +1,2 @@
 # house-price-prediction
- House price prediction using linear regression algorithms with EDA analysis
+ House price prediction using  regression algorithms with EDA analysis
